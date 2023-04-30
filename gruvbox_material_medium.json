@@ -1,0 +1,134 @@
+{
+    "name": "Gruvbox Material Medium",
+    "description": "Original Vendetta theme made with the color palette of Gruvbox Material Medium by https://github.com/sainnhe/gruvbox-material",
+    "authors": [
+        {
+            "name": "MrJengo",
+            "id": "280979626682089483"
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#DDC7A1"
+        ],
+        "HEADER_SECONDARY": [
+            "#D4BE98"
+        ],
+        "TEXT_NORMAL": [
+            "#DDC7A1"
+        ],
+        "TEXT_MUTED": [
+            "#A89984"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#A89984"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#D4BE98"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#DDC7A1"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#7C6F64" 
+	],
+        "BACKGROUND_PRIMARY": [
+            "#32302F"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#32302F"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#282828"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#282828"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#5A524C"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1B1B1B"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#45403D"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#32302F"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#45403D"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#7F6C64"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#928374"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#A89984"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#5A524C"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "A89984"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#32302F"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#1B1B1B"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#A89984"
+        ],
+        "TEXT_LINK": [
+            "#89B482"
+        ],
+        "TEXT_DANGER": [
+            "#EA6962"
+        ],
+        "CHANNEL_ICON": [
+            "#D4BE98"
+        ],
+        "CHAT_BACKGROUND": [
+            "#45403D"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#282828",
+        "PRIMARY_100": "#A89984",
+        "PRIMARY_200": "#45403D",
+        "PRIMARY_300": "#928374",
+        "PRIMARY_360": "#D4BE98",
+        "PRIMARY_400": "#A89984",
+        "PRIMARY_600": "#1B1B1B",
+        "PRIMARY_630": "#45403D",
+        "PRIMARY_660": "#45403D",
+        "PRIMARY_700": "#282828",
+        "PRIMARY_800": "#282828",
+        "BRAND_260": "#282828",
+        "BRAND_360": "#A89984",
+        "BRAND_500": "#7DAEA3",
+        "BRAND_560": "#A89984",
+        "YELLOW_300": "#D8A657",
+        "GREEN_600": "#34381B",
+        "RED_400": "#EA6962",
+        "WHITE_500": "#7DAEA3",
+        "GREEN_360": "#A9B665",
+	"ORANGE_345": "#E78A4E",
+	"RED_500": "EA69623",
+	"GREEN_345": "A9B665",
+	"BLUE_345": "7DAEA3"
+    },
+    "spec": 2
+}
